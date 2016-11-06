@@ -6,7 +6,8 @@
   "description": "An element that supports displaying an icon",
   "main": "iron-icon.html",
   "author": [
-    "The Polymer Authors"
+    "The Polymer Authors",
+    "lordoftheflies <heglas11@gmail.com>"
   ],
   "keywords": [
     "web-components",
@@ -15,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/iron-icon.git"
+    "url": "git://github.com/lordoftheflies/iron-icon.git"
   },
   "ignore": [],
   "dependencies": {
